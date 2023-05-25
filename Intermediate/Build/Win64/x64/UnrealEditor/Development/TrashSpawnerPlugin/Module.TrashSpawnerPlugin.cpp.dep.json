@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trashspawnerplugin\\module.trashspawnerplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealprojects\\trashspawner\\intermediate\\build\\win64\\x64\\trashspawnereditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trashspawnerplugin\\definitions.trashspawnerplugin.h",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\trashspawnerplugin\\uht\\trashlib.gen.cpp",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\source\\trashspawnerplugin\\public\\trashlib.h",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\trashspawnerplugin\\uht\\trashlib.generated.h",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\trashspawnerplugin\\uht\\trashspawnerplugin.init.gen.cpp",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\source\\trashspawnerplugin\\private\\trashlib.cpp",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\source\\trashspawnerplugin\\private\\trashspawnerplugin.cpp",
+            "e:\\unrealprojects\\trashspawner\\plugins\\trashspawnerplugin\\source\\trashspawnerplugin\\public\\trashspawnerplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

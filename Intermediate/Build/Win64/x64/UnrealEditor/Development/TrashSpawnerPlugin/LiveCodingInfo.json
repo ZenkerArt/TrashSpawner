@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TrashSpawnerPlugin.cpp.obj": [
+			"TrashLib.gen.cpp.obj",
+			"TrashSpawnerPlugin.init.gen.cpp.obj",
+			"TrashLib.cpp.obj",
+			"TrashSpawnerPlugin.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TrashSpawnerPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealProjects\TrashSpawner\Intermediate\Build\Win64\x64\TrashSpawnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\UnrealProjects\TrashSpawner\Plugins\TrashSpawnerPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TrashSpawnerPlugin\Module.TrashSpawnerPlugin.cpp.obj"
+"E:\UnrealProjects\TrashSpawner\Plugins\TrashSpawnerPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TrashSpawnerPlugin\Default.rc2.res"
+/OUT:"E:\UnrealProjects\TrashSpawner\Plugins\TrashSpawnerPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TrashSpawnerPlugin\UnrealEditor-TrashSpawnerPlugin.lib"
